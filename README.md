@@ -8,7 +8,6 @@
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left"> 
 <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg" alt="azure" width="80" height="40"/> </a> &nbsp;
-<a href="https://www.servicenow.com/br/" target="_blank" rel="noreferrer"> <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/naas/servicenow-header-logo-white.svg" alt="servicenow" width="80" height="40"/> </a> &nbsp;
 <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="80" height="40"/> </a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="python" width="80" height="40"/> </a> &nbsp;
 <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="cisco" width="80" height="40"/> </a> &nbsp;
